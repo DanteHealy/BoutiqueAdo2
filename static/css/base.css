@@ -73,6 +73,12 @@ body {
     background: #000 !important;
 }
 
+hr {
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+ }
+
 .overlay {
 	height: 100%;
 	width: 100%;
